@@ -14,6 +14,13 @@
     $totalPackagePrice = $jenis_paket + $travel + $dinner;
     $totalBill = $totalPackagePrice * $durasi;
 
+    if ($jenis_paket == "1000000") {
+        $jenis_paket = "Paket Premium";
+    }
+    else {
+        $jenis_paket = "Paket Eksekutif";
+    }
+
     // Validasi menambahkan fasilitas
     $travel = !empty($travel) ? 1 : 0;
     $dinner = !empty($dinner) ? 1 : 0;
@@ -53,6 +60,7 @@
     </style>
 </head>
 <body>
+    <!-- Menampilkan Resume Pemesanan -->
     <div class="confirmation-container">
         <?php if ($bookingSuccess): ?>
             <h1 class="display-4 text-success">Booking Success!</h1>
@@ -66,6 +74,7 @@
                 <li class="list-group-item">Package Price: Rp. <?= number_format($totalPackagePrice, 0, ',', '.') ?></li>
                 <li class="list-group-item">Total Bill: Rp. <?= number_format($totalBill, 0, ',', '.') ?></li>
             </ul>
+        <!-- validasi apakah data valid  -->
         <?php else: ?>
             <h1 class="display-4 text-danger">Booking Failed</h1>
             <p class="lead">There was an error processing your booking.</p>

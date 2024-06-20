@@ -36,10 +36,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="?page=home">Home</a>
+                        <a class="nav-link" aria-current="page" href="?page=home">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="?page=pemesanan">Pesan Sekarang</a>
+                        <a class="nav-link active" href="?page=pemesanan">Pesan Sekarang</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="?page=admin">Riwayat Pemesanan</a>
                     </li>
                 </ul>
             </div>

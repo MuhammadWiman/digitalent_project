@@ -58,6 +58,9 @@ if ($jsonContent === false) {
                     <li class="nav-item">
                         <a class="nav-link" href="?page=pemesanan">Pesan Sekarang</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="?page=admin">Riwayat Pemesanan</a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -187,6 +190,7 @@ if ($jsonContent === false) {
             </div>
           </div>
         </div>
+        <!-- menampilkan video menggunakan looping foreach -->
         <div class="col-md-4">
           <?php foreach ($videos as $video) : ?>
               <div class="ratio ratio-16x9 mb-3">
