@@ -12,7 +12,7 @@ Ini adalah program sederhana pemesanan paket wisata menggunakan PHP dan MySQL un
 8. [Catatan Penting](#catatan-penting)
 9. [Kontribusi](#kontribusi)
 
-##Instalasi
+## Instalasi
 
 Langkah-langkah instalasi program :
 Clone repositori ini ke direktori lokal Anda atau unduh file ZIP.
