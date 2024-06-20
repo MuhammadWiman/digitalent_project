@@ -3,7 +3,7 @@
 Ini adalah program sederhana pemesanan paket wisata menggunakan PHP dan MySQL untuk XAMPP. Program ini memungkinkan pengguna untuk melakukan pemesanan paket wisata dengan berbagai opsi dan fasilitas tambahan.
 
 1. [Daftar Isi](#daftar-isi)
-2. [Instalasi](#instalasi)
+2. [Instalasi](#Langkah-langkah-instalasi-program-:)
 3. [Konfigurasi](#konfigurasi)
 4. [Struktur Direktori](#struktur-direktori)
 5. [Menjalankan Program](#menjalankan-program)
@@ -12,7 +12,7 @@ Ini adalah program sederhana pemesanan paket wisata menggunakan PHP dan MySQL un
 8. [Catatan Penting](#catatan-penting)
 9. [Kontribusi](#kontribusi)
 
-## Langkah-langkah instalasi program:
+## Langkah-langkah instalasi program :
 
 Clone repositori ini ke direktori lokal Anda atau unduh file ZIP.
 
