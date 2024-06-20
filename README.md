@@ -18,7 +18,7 @@ Langkah-langkah instalasi program :
 Clone repositori ini ke direktori lokal Anda atau unduh file ZIP.
 
 ```sh
-[git clone https://github.com/nama_pengguna/repositori.git](https://github.com/MuhammadWiman/digitalent_project.git)
+git clone https://github.com/MuhammadWiman/digitalent_project.git
 ```
 
 Pindahkan atau salin folder ini ke dalam direktori XAMPP (htdocs).
