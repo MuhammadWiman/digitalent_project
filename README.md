@@ -88,11 +88,11 @@ Deskripsi singkat tentang fitur-fitur utama program:
 
 ## Teknologi yang Digunakan
 
-1.PHP
-2.MySQL
+1.PHP versi 8.2.12
+2.MySQL versi 8.2.12
 3.HTML
-4.CSS (Bootstrap)
-5.JavaScript (jQuery)
+4.CSS (Bootstrap) versi 5.0.2
+5.JavaScript (jQuery) versi 3.6.0
 
 ## Catatan Penting
 
