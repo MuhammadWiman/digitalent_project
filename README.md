@@ -2,15 +2,15 @@
 
 Ini adalah program sederhana pemesanan paket wisata menggunakan PHP dan MySQL untuk XAMPP. Program ini memungkinkan pengguna untuk melakukan pemesanan paket wisata dengan berbagai opsi dan fasilitas tambahan.
 
-1.Daftar Isi
-2.Instalasi
-3.Konfigurasi
-4.Struktur Direktori
-5.Menjalankan Program
-6.Fitur
-7.Teknologi yang Digunakan
-8.Catatan Penting
-9.Kontribusi
+1. [Daftar Isi](#daftar-isi)
+2. [Instalasi](#instalasi)
+3. [Konfigurasi](#konfigurasi)
+4. [Struktur Direktori](#struktur-direktori)
+5. [Menjalankan Program](#menjalankan-program)
+6. [Fitur](#fitur)
+7. [Teknologi yang Digunakan](#teknologi-yang-digunakan)
+8. [Catatan Penting](#catatan-penting)
+9. [Kontribusi](#kontribusi)
 
 ## Langkah-langkah instalasi program:
 
@@ -75,24 +75,24 @@ http://localhost/parawisata/?page=admin
 
 ## Menjalankan Program
 
-1.Pastikan XAMPP telah dijalankan dan layanan Apache dan MySQL aktif.
-2.Buka browser dan navigasikan ke http://localhost/parawisata/ untuk memulai aplikasi.
+1. Pastikan XAMPP telah dijalankan dan layanan Apache dan MySQL aktif.
+2. Buka browser dan navigasikan ke http://localhost/parawisata/ untuk memulai aplikasi.
 
 ## Fitur
 
 Deskripsi singkat tentang fitur-fitur utama program:
 
-1.Pemesanan paket wisata.
-2.Pengelolaan data pemesanan oleh admin.
-3.Form pemesanan dengan validasi input.
+1. Pemesanan paket wisata.
+2. Pengelolaan data pemesanan oleh admin.
+3. Form pemesanan dengan validasi input.
 
 ## Teknologi yang Digunakan
 
-1.PHP versi 8.2.12
-2.MySQL versi 8.2.12
-3.HTML
-4.CSS (Bootstrap) versi 5.0.2
-5.JavaScript (jQuery) versi 3.6.0
+1. PHP versi 8.2.12
+2. MySQL versi 8.2.12
+3. HTML
+4. CSS (Bootstrap) versi 5.0.2
+5. JavaScript (jQuery) versi 3.6.0
 
 ## Catatan Penting
 
