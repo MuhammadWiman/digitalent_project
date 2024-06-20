@@ -79,11 +79,6 @@ http://localhost/parawisata/?page=pemesanan
 http://localhost/parawisata/?page=admin
 ```
 
-## Menjalankan Program
-
-1.Pastikan XAMPP telah dijalankan dan layanan Apache dan MySQL aktif.
-2.Buka browser dan navigasikan ke http://localhost/parawisata/ untuk memulai aplikasi.
-
 ## Fitur
 
 Deskripsi singkat tentang fitur-fitur utama program:
