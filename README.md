@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###Pemesanan Paket Wisata dengan PHP (XAMPP)
 
 Ini adalah program sederhana pemesanan paket wisata menggunakan PHP dan MySQL untuk XAMPP. Program ini memungkinkan pengguna untuk melakukan pemesanan paket wisata dengan berbagai opsi dan fasilitas tambahan.
@@ -102,3 +103,6 @@ Periksa kembali konfigurasi basis data sebelum menjalankan program.
 ##Kontribusi
 
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request dengan perubahan yang diusulkan.
+=======
+Website Parawisata Desa Wisata Pulau Pahawang untuk tugas akhir jwd digitalent
+>>>>>>> f6cce1db443101c4b9eeb3c87ba2130ba6aa7504
